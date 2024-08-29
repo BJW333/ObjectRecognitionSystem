@@ -1,4 +1,5 @@
 ARGUS Object Recognition Component
+----------
 
 Overview
 ----------
