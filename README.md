@@ -29,13 +29,9 @@ To run the object recognition system, execute the script:
 
 python3.10 your_script_name.py
 
-The program will capture video from the webcam for a duration of 10 seconds by default (adjustable by modifying the capture_duration parameter). During this time, a window will display the detected objects, their bounding boxes, and confidence levels.
+The program will capture video from the webcam. During this a window will be displayed as will the detected objects, their bounding boxes, and confidence levels.
 
-Press q to exit the application before the capture duration ends.
-
-Output
-----------
-At the end of the capture duration, the program prints a list of unique objects detected during the session.
+Press q to exit the application.
 
 Customization
 ----------
